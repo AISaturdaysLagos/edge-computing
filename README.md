@@ -3,7 +3,8 @@
  The workshop is designed to foster an enabling environment for individuals to build competence in the Edge Computing space. At the end of the program individuals will be  able to deploy models on Nvidia Jetson devices for video Analytics, Conservational AI and Data Science solutions. 
 
 ## Content 
-- Setting up Jetson Nano.
+Fundamental of Edge Computing: 
+    - Setting up Jetson Nano.
 - Roadmap to Nvidia Video Analytic.
 - Projects with Edge Computing:
     - Video Analytics using Deepstream SDK 
