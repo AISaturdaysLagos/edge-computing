@@ -18,7 +18,7 @@ Gst.init(sys.argv[1:])
 
 # build the pipeline
 pipeline = Gst.parse_launch(
-    "playbin uri=https://www.freedesktop.org/software/gstreamer-sdk/data/media/sintel_trailer-480p.webm"
+    "playbin uri=file:///dli/task/deepstream/samples/streams/sample_720p.mp4"
 )
 
 # start playing
@@ -33,3 +33,7 @@ msg = bus.timed_pop_filtered(
 
 # free resources
 pipeline.set_state(Gst.State.NULL)
+
+
+# /dli/task/deepstream/samples/streams/yoga.mp4
+# https://www.freedesktop.org/software/gstreamer-sdk/data/media/sintel_trailer-480p.webm
