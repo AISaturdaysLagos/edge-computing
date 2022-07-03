@@ -5,3 +5,4 @@ sudo docker run --runtime nvidia -it --rm --network host \
     -v ~/my_apps:/dli/task/my_apps \
     --device /dev/video0 \
     nvcr.io/nvidia/dli/dli-nano-deepstream:v2.0.0-DS6.0.1
+
