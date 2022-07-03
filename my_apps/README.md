@@ -1,5 +1,7 @@
 # Edge Computing Workshop
 
+- Slides Link
+- Document Link
 
 ## Install system dependencies: 
 ```
