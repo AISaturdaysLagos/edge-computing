@@ -19,6 +19,7 @@
 
 import sys
 #sys.path.append('../../')
+sys.path.append('/opt/nvidia/deepstream/deepstream-5.1/sources/deepstream_python_apps/apps/common')
 sys.path.append('/dli/task/my_apps/')
 import gi
 gi.require_version('Gst', '1.0')
