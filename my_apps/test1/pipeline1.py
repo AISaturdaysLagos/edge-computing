@@ -18,7 +18,7 @@ Gst.init(sys.argv[1:])
 
 # build the pipeline
 pipeline = Gst.parse_launch(
-    "playbin uri=file:///dli/task/deepstream/samples/streams/sample_720p.mp4"
+     "playbin uri=file:///home/hlk/Documents/ai6/edge-computing/my_apps/sample_stream/sample_1080p_h265.mp4"
 )
 
 # start playing

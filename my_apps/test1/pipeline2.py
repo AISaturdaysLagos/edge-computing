@@ -10,9 +10,13 @@ from gi.repository import Gst, GLib, GObject
 # initialize GStreamer
 Gst.init(None)
 
+print(sys.argv[1])
+
 # create the elements
+# source = Gst.ElementFactory.make("filesrc", "file-source")
 source = Gst.ElementFactory.make("videotestsrc", "source")
 sink = Gst.ElementFactory.make("autovideosink", "sink")
+# sink = Gst.ElementFactory.make("nveglglessink", "nvvideo-renderer")
 
 # create the empty pipeline
 pipeline = Gst.Pipeline.new("test-pipeline")
@@ -28,6 +32,7 @@ if not source.link(sink):
     sys.exit(1)
 
 # modify the source's properties
+# source.set_property('location', sys.argv[1])
 source.set_property("pattern", 0)
 
 # start playing
