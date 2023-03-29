@@ -1,23 +1,33 @@
-# Edge Computing Workshop
 
- The workshop is designed to foster an enabling environment for individuals to build competence in the Edge Computing space. At the end of the program individuals will be  able to deploy models on Nvidia Jetson devices for video Analytics, Conservational AI and Data Science solutions. 
-#
+#AI6LAGOS EDGE COMPUTING WORKSHOP 2023
+ The workshop is designed to foster an enabling environment for individuals to build competence in the Edge Computing space. At the end of the program, individuals will be able to deploy models on Nvidia Jetson devices and create custom models using the Edge Impulse platform. 
 
-## Content 
-- Fundamental of Edge Computing
-- Roadmap to Building Video AI Applications at the Edge on Jetson Nano
-    - Setting up your Jetson Nano - [Link](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about)
-    - Introduction to Deepstream - [Link](https://courses.nvidia.com/courses/course-v1:DLI+L-IV-04+V1/about)
-    - Exploring Deepstream SDK - [Link](https://courses.nvidia.com/courses/course-v1:DLI+S-IV-01+V1/about)
-- Projects with Edge Computing:
-    - Video Analytics using Deepstream SDK - [Link](https://courses.nvidia.com/courses/course-v1:DLI+S-IV-02+V2/about)
-    - Conservational AI 
-    - Data Science 
-- Training models for Edge computing
-- Quantization and Optimization of Tensorflow model using TensorRT
-- DevOps in Edge computing(Docker, Docker-Compose, Kubernetes (k3s) etc)
-- Integrating Edge computing with Messaging system (Kafka/MQTT)
-- Integrating Edge computing with Webrtc
-- Integrating Edge device with external devices: 
-   - Lidar 
-   - Depth/Stereo Sensor 
+| Week | Date | Task | Duration |
+|-----|------|------|------|
+| 1    |  May 6th    | Introduction to Edge Compute     |  1hr    | 
+|             |     |  Setting Up your Jetson Nano    |   2hr |
+| 2    |  May 13th   | Introduction to Image classification    |  1hr    | 
+|             |     |  Image classification on Jetson using Edge Impulse   |  2hr    | 
+| 3    |  May 20th    | Introduction to Image Regression   |  1hr    | 
+|             |     |  Image Regression with on Jetson Nano    |  2hr    | 
+| 4    |  May 27th   | Custom deploying on Jetson Nano using Edge Impulse     | 2hr    | 
+|             |     |  Introduction to Gstreamer/Deepstream   |  1hr    | 
+|             |     |  Issuing  Certification at the end of the program    |  10-30min    | 
+
+
+## Course, Platform and Tools 
+- [Getting Started with AI on Jetson](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/) 
+- [Edge Impulse](https://www.edgeimpulse.com/)
+- [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+
+
+## Basic Requirements 
+- Basic knowledge of python(variable, function, etc)
+- Knowledge/Interest in computer vision
+- An element of curiosity 
+
+## What you are expected to gain from the program 
+- Learn how to use building models using Edge Impulse and deploy your models on Jetson Nano
+- Learn how to use Docker, Numpy, Pandas, Jupyter Notebook etc 
+- Learn how to build custom models
+- Nvidia Deep Learning Certificate 
