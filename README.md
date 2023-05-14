@@ -1,5 +1,5 @@
 # AI6LAGOS EDGE COMPUTING WORKSHOP 2023
-![Cover Image](./cover_image.jpeg)
+![Cover Image](./asset/cover_image.jpeg)
  The workshop is designed to foster an enabling environment for individuals to build competence in the Edge Computing space. At the end of the program, individuals will be able to deploy models on Nvidia Jetson devices and create custom models using the Edge Impulse platform. 
 
 | Week | Date | Task | Duration |
