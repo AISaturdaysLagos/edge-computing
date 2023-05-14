@@ -1,16 +1,16 @@
-
-## AI6LAGOS EDGE COMPUTING WORKSHOP 2023
+# AI6LAGOS EDGE COMPUTING WORKSHOP 2023
+![Cover Image](./cover_image.jpeg)
  The workshop is designed to foster an enabling environment for individuals to build competence in the Edge Computing space. At the end of the program, individuals will be able to deploy models on Nvidia Jetson devices and create custom models using the Edge Impulse platform. 
 
 | Week | Date | Task | Duration |
 |-----|------|------|------|
-| 1    |  May 6th    | Introduction to Edge Compute     |  1hr    | 
+| 1    |  May 20th    | Introduction to Edge Compute     |  1hr    | 
 |             |     |  Setting Up your Jetson Nano    |   2hr |
-| 2    |  May 13th   | Introduction to Image classification    |  1hr    | 
+| 2    |  May 27th   | Introduction to Image classification    |  1hr    | 
 |             |     |  Image classification on Jetson using Edge Impulse   |  2hr    | 
-| 3    |  May 20th    | Introduction to Image Regression   |  1hr    | 
+| 3    |  June 3rd    | Introduction to Image Regression   |  1hr    | 
 |             |     |  Image Regression with on Jetson Nano    |  2hr    | 
-| 4    |  May 27th   | Custom deploying on Jetson Nano using Edge Impulse     | 2hr    | 
+| 4    |  June 10th   | Custom deploying on Jetson Nano using Edge Impulse     | 2hr    | 
 |             |     |  Introduction to Gstreamer/Deepstream   |  1hr    | 
 |             |     |  Issuing  Certification at the end of the program    |  10-30min    | 
 
