@@ -31,3 +31,11 @@
 - Learn how to use Docker, Numpy, Pandas, Jupyter Notebook etc 
 - Learn how to build custom models
 - Nvidia Deep Learning Certificate 
+
+Workshop Material 
+- [Week 1](https://docs.google.com/presentation/d/1Ife9oXupc0jdurz8OpKKgqQfPycReCQJTC5_gqc5L3c/edit#slide=id.g244451957ee_0_1014)
+
+
+## Reference 
+- [Book: AI at the edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
+- [Article: What Is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/2022/02/17/what-is-edge-ai/)
