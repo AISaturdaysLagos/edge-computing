@@ -39,3 +39,4 @@ Workshop Material
 ## Reference 
 - [Book: AI at the edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
 - [Article: What Is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/2022/02/17/what-is-edge-ai/)
+- [Workshop advantech Jetson Nano](https://github.com/edgeimpulse/workshop-advantech-jetson-nano)
