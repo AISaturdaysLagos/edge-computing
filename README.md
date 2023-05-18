@@ -41,3 +41,7 @@ Workshop Material
 - [Article: What Is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/2022/02/17/what-is-edge-ai/)
 - [Workshop advantech Jetson Nano](https://github.com/edgeimpulse/workshop-advantech-jetson-nano)
 - [Machine Learning at the Network Edge: A Survey](https://arxiv.org/pdf/1908.00080.pdf)
+- [Edge AI 101- What is it, Why is it important, and How to implement Edge AI?](https://www.seeedstudio.com/blog/2021/04/02/edge-ai-what-is-it-and-what-can-it-do-for-edge-iot/)
+- [Edge Computing Fuels a Sustainable Future for Energy](https://developer.nvidia.com/blog/edge-computing-fuels-a-sustainable-future-for-energy/#:~:text=Oil%20and%20gas%20enterprises%20and,sources%20of%20energy%20to%20consumers.)
+- [Manufacturing the Future of AI with Edge Computing](https://developer.nvidia.com/blog/manufacturing-the-future-of-ai-with-edge-computing/)
+- [AI Personalizes Online Shopping](https://developer.nvidia.com/blog/top-3-pillars-of-ai-enabled-edge-computing-in-retail/)
