@@ -34,10 +34,12 @@
 
 Workshop Material 
 - [Week 1](https://docs.google.com/presentation/d/1Ife9oXupc0jdurz8OpKKgqQfPycReCQJTC5_gqc5L3c/edit#slide=id.g244451957ee_0_1014)
+- 
 
 
 ## Reference 
 - [Book: AI at the edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
+- [Installation of Edge Impulse](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation)
 - [Article: What Is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/2022/02/17/what-is-edge-ai/)
 - [Workshop advantech Jetson Nano](https://github.com/edgeimpulse/workshop-advantech-jetson-nano)
 - [Machine Learning at the Network Edge: A Survey](https://arxiv.org/pdf/1908.00080.pdf)
