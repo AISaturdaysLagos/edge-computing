@@ -34,7 +34,7 @@
 
 Workshop Material 
 - [Week 1](https://docs.google.com/presentation/d/1Ife9oXupc0jdurz8OpKKgqQfPycReCQJTC5_gqc5L3c/edit#slide=id.g244451957ee_0_1014)
-- 
+- [Week 2](https://docs.google.com/presentation/d/1XWsyqMV0qWNydiazBFBhmSQ0RGoVfbG9RR_gB1fk6YA/edit#slide=id.g2461e0ba8aa_0_302)
 
 
 ## Reference 
