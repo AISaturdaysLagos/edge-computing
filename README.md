@@ -38,6 +38,7 @@ Workshop Material
 
 
 ## Reference 
+- [Nvidia Deep Learning Institute](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/)
 - [Book: AI at the edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
 - [Installation of Edge Impulse](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation)
 - [Article: What Is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/2022/02/17/what-is-edge-ai/)
