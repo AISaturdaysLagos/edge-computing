@@ -40,12 +40,13 @@ Hardware:
  ```
  Install jetson-stats
  ```
- sudo pip3 install -U jetson-stats
+ sudo -H pip3 install jetson-stats / sudo pip3 install -U jetson-stats
  ```
  Reboot the device
  ```
  reboot
  ```
+ If issue persist in jetson-stats try this - [Link](https://rnext.it/jetson_stats/troubleshooting.html) [Link2](https://forums.developer.nvidia.com/t/jtop-install-fail/203576/4)
  #### Connecting to Jetson:
     We can connect to the Jetson on our primary computer, open a serial console (PuTTY on Windows or screen on macOS and Linux), see the full instruction here. 
 ## Reference 
