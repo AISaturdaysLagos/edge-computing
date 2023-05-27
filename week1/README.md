@@ -32,11 +32,15 @@ Hardware:
  ```
  The make all scripts writable
  ```
- chmod +x *.sh 
+ sudo chmod +x *.sh 
  ```
  Install   `curl` with the following command
  ```
  sudo apt install curl 
+ ```
+ Install jetson-stats
+ ```
+ pip install jetson-stats
  ```
  #### Connecting to Jetson:
     We can connect to the Jetson on our primary computer, open a serial console (PuTTY on Windows or screen on macOS and Linux), see the full instruction here. 
