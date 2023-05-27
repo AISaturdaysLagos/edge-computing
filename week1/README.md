@@ -42,6 +42,10 @@ Hardware:
  ```
  sudo pip3 install -U jetson-stats
  ```
+ Reboot the device
+ ```
+ reboot
+ ```
  #### Connecting to Jetson:
     We can connect to the Jetson on our primary computer, open a serial console (PuTTY on Windows or screen on macOS and Linux), see the full instruction here. 
 ## Reference 
