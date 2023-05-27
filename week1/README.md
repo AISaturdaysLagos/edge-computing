@@ -25,7 +25,19 @@ Hardware:
     - Depending on how you want to set up your Jetson Nano you'll need either:
     an extra computer to communicate with the Jetson Nano directly from the host computer
     - or a monitor, keyboard and mouse to interact directly with the Jetson Nano.
- 
+ ## Install Docker and Docker Compose 
+ Navigate to the directory: 
+ ```
+ cd week2
+ ```
+ The make all scripts writable
+ ```
+ chmod +x *.sh 
+ ```
+ Install   `curl` with the following command
+ ```
+ sudo apt install curl 
+ ```
  #### Connecting to Jetson:
     We can connect to the Jetson on our primary computer, open a serial console (PuTTY on Windows or screen on macOS and Linux), see the full instruction here. 
 ## Reference 
