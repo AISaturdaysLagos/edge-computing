@@ -49,6 +49,14 @@ Hardware:
  If issue persist in jetson-stats try this - [Link](https://rnext.it/jetson_stats/troubleshooting.html) [Link2](https://forums.developer.nvidia.com/t/jtop-install-fail/203576/4)
  #### Connecting to Jetson:
     We can connect to the Jetson on our primary computer, open a serial console (PuTTY on Windows or screen on macOS and Linux), see the full instruction here. 
+
+### Docker 
+```
+echo "sudo docker run --runtime nvidia -it --rm --network host \
+    --volume ~/nvdli-data:/nvdli-nano/data \
+    --device /dev/video0 \
+    nvcr.io/nvidia/dli/dli-nano-ai:v2.0.2-r32.7.1" > docker_dli_run.sh
+```
 ## Reference 
 - [Installation of Edge Impulse](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation)
 - [Introduction to Embedded Machine Learning](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
