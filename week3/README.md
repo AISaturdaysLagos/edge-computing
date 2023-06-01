@@ -4,9 +4,10 @@ WEEK3 Reading
  ![CV](../asset/week3_reading.png)
 
 ## Class Task
-Task 1 : Run the image classification and regression task in the DLI program.  
+#### Task 1 : Run the image classification and regression task in the DLI program.  
  ![](../asset/week3-tasks.png)
-Task 2 :  Setup and build object detection model for computer vision task
+
+#### Task 2 :  Setup and build object detection model for computer vision task
  ![CV](../asset/making-things-smarter.png)
 ## Reference 
 - [High-Speed Object Detection with Jetson Nano and Edge Impulse](https://www.youtube.com/watch?v=_T6h3Jmq2Yk)
