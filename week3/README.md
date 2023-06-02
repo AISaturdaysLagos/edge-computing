@@ -14,3 +14,4 @@ WEEK3 Reading
 - [High-Speed Object Detection with Jetson Nano and Edge Impulse](https://www.youtube.com/watch?v=_T6h3Jmq2Yk)
 - [Nvidia Jetson Nano](https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-cpu-gpu-targets/nvidia-jetson-nano)
 - [Face mask detector using Edge Impulse and Nvidia Jetson](https://www.hackster.io/shahizat/face-mask-detector-using-edge-impulse-and-nvidia-jetson-8c4dda)
+- [Jetson Product Lifecycle](https://developer.nvidia.com/embedded/lifecycle)
