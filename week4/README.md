@@ -9,6 +9,28 @@ WEEK4 Reading
 
 #### Task 2 :  Setup and build object detection model for computer vision task
  ![CV](../asset/making-things-smarter.png)
+
+Before starting anything, it might be good to update everything. You can do that by entering the commands below:
+```
+sudo apt-get update
+sudo apt-get upgrade
+```
+From the terminal, run to install Edge Impulse and its dependencies:
+
+```
+ wget -q -O - https://cdn.edgeimpulse.com/firmware/linux/jetson.sh | bash
+ ```
+ You should get a response that looks like the one below.
+ ```
+ + edge-impulse-linux@1.3.3
+added 347 packages from 416 contributors in 68.138
+ ```
+ Now, use the below command to run Edge Impulse:
+ ```
+ edge-impulse-linux
+ ```
+ You will be asked to log in to your Edge Impulse account. You’ll then be asked to choose a project, and finally to select a camera to connect to the project.
+
 ## Reference 
 - [Computer Vision with Embedded Machine Learning](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)
 - [High-Speed Object Detection with Jetson Nano and Edge Impulse](https://www.youtube.com/watch?v=_T6h3Jmq2Yk)
