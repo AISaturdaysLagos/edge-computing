@@ -1,10 +1,10 @@
 # AI6LAGOS EDGE COMPUTING WORKSHOP 2023
-WEEK3 Reading
+WEEK4 Reading
 ![Embedded CV](../asset/computer_vision_with_embedded_ml.png)
- ![CV](../asset/week3_reading.png)
+ ![CV](../asset/week4_reading.png)
 
 ## Class Task
-#### Task 1 : Run the image classification in the DLI program.  
+#### Task 1 : Run the regression task in the DLI program.  
  ![](../asset/week4-tasks.png)
 
 #### Task 2 :  Setup and build object detection model for computer vision task
