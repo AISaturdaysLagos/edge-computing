@@ -4,7 +4,7 @@ WEEK4 Reading
  ![CV](../asset/week4_reading.png)
 
 ## Class Task
-#### Task 1 : Run the regression task in the DLI program.  
+#### Task 1 : Run the image regression task in the DLI program.  
  ![](../asset/week4-tasks.png)
 
 #### Task 2 :  Setup and build object detection model for computer vision task
