@@ -22,8 +22,8 @@ From the terminal, run to install Edge Impulse and its dependencies:
  ```
  You should get a response that looks like the one below.
  ```
- + edge-impulse-linux@1.3.3
-added 347 packages from 416 contributors in 68.138
++ edge-impulse-linux@1.4.3
+added 343 packages from 420 contributors in 81.696s
  ```
  Now, use the below command to run Edge Impulse:
  ```
