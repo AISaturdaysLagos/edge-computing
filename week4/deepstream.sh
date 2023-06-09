@@ -1,0 +1,1 @@
+docker run -itd --rm --net=host --name deepstream --runtime nvidia -w /opt/nvidia/deepstream/deepstream nvcr.io/nvidia/deepstream:6.1.1-samples
