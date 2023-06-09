@@ -37,6 +37,8 @@ Workshop Material
 - [Week 2](https://docs.google.com/presentation/d/1XWsyqMV0qWNydiazBFBhmSQ0RGoVfbG9RR_gB1fk6YA/edit#slide=id.g2461e0ba8aa_0_302)
 - [Week 3](https://docs.google.com/presentation/d/1XysQ0LZNVrypUVlZAcyLiS--wj4eDBu0-68UC2j6WkQ/edit#slide=id.g513673c178480d1c_20)
     - [Speaker: Optimization and Compression Techniques for Learning Algorithms by Kenechi Ojukwu](https://docs.google.com/presentation/d/1S-ZIHDx9WzdQFYBJuQIuuCc5LzM9J6pQ/edit#slide=id.p1) 
+- [Week 4](https://docs.google.com/presentation/d/1XysQ0LZNVrypUVlZAcyLiS--wj4eDBu0-68UC2j6WkQ/edit#slide=id.g513673c178480d1c_20)
+    - [Speaker: __ by __](https://docs.google.com/presentation/d/1m89Nup74u7-iZTI3vDBtCeZ23v7RCVLYC6LeTTCwYe4/edit#slide=id.g513673c178480d1c_20) 
 
 
 ## Reference 
