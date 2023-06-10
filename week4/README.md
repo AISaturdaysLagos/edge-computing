@@ -80,9 +80,9 @@ Want to see a feed of the camera and live classification in your browser? Go to 
 
 boundingBoxes 179ms. [{"height":136,"label":"fork","value":0.7591571807861328,"width":134,"x":0,"y":176},{"height":170,"label":"fork","value":0.6790993213653564,"width":52,"x":180,"y":3}]
  ```
-
+# Deepstream SDK on Jetson
 ## Setting up Deepstream Docker on Jetson
-Pull from Nvidia NGC: 
+Pull Deepstream from Nvidia NGC: 
  ```
 sudo docker pull nvcr.io/nvidia/deepstream-l4t:6.1.1-samples
  ```
