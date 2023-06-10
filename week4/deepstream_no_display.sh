@@ -9,7 +9,6 @@ sudo docker run \
     --rm \
     --net=host \
     --runtime nvidia \
-    -e DISPLAY=$DISPLAY \
     -v /tmp/argus_socket:/tmp/argus_socket \
     -v /tmp/.X11-unix/:/tmp/.X11-unix \
     -v /opt/nvidia/deepstream/deepstream  \
