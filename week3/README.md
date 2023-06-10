@@ -5,7 +5,7 @@ WEEK3 Reading
 
 ## Class Task
 #### Task 1 : Run the image classification in the DLI program.  
- ![](../asset/week4-tasks.png)
+ ![](../asset/week3-tasks.png)
 
 #### Task 2 :  Setup and build object detection model for computer vision task
  ![CV](../asset/making-things-smarter.png)
