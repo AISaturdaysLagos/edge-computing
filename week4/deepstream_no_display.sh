@@ -2,8 +2,6 @@
 
 set -eu
 
-xhost +
-
 sudo docker run \
     -it \
     --rm \
