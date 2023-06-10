@@ -100,6 +100,9 @@ ab995ea0d0d0: Waiting
 6f67c1a28e38: Waiting 
 1f4505fd2b95: Waiting 
 816c2238973f: Waiting 
+Digest: sha256:8054daa024f2cc58d58678652be6f9b5e2e7512d1b87fd560ca98cdc758e247a
+Status: Downloaded newer image for nvcr.io/nvidia/deepstream:6.1.1-samples
+nvcr.io/nvidia/deepstream:6.1.1-samples
 ```
 
 Start the Docker Container: 
