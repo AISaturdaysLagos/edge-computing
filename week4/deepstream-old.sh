@@ -13,4 +13,4 @@ sudo docker run \
     -v /tmp/argus_socket:/tmp/argus_socket \
     -v /tmp/.X11-unix/:/tmp/.X11-unix \
     -v /opt/nvidia/deepstream/deepstream  \
-    nvcr.io/nvidia/deepstream-l4t:6.1.1-samples
+    nvcr.io/nvidia/deepstream-l4t:6.0-samples

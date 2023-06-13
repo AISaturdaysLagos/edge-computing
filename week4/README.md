@@ -84,12 +84,12 @@ boundingBoxes 179ms. [{"height":136,"label":"fork","value":0.7591571807861328,"w
 ## Setting up Deepstream Docker on Jetson
 Pull Deepstream from Nvidia NGC: 
  ```
-sudo docker pull nvcr.io/nvidia/deepstream-l4t:6.1.1-samples
+sudo docker pull nvcr.io/nvidia/deepstream-l4t:6.0-samples
  ```
 
  ```
- i6-jetson@ai6jetson-desktop:~/Documents$ sudo docker pull nvcr.io/nvidia/deepstream-l4t:6.1.1-samples
-6.1.1-samples: Pulling from nvidia/deepstream
+ i6-jetson@ai6jetson-desktop:~/Documents$ sudo docker pull nvcr.io/nvidia/deepstream-l4t:6.0-samples
+6.0-samples: Pulling from nvidia/deepstream
 3b65ec22a9e9: Pulling fs layer 
 9bfa49b064c8: Pulling fs layer 
 cde16ef91ac2: Pulling fs layer 
@@ -101,8 +101,8 @@ ab995ea0d0d0: Waiting
 1f4505fd2b95: Waiting 
 816c2238973f: Waiting 
 Digest: sha256:8054daa024f2cc58d58678652be6f9b5e2e7512d1b87fd560ca98cdc758e247a
-Status: Downloaded newer image for nvcr.io/nvidia/deepstream-l4t:6.1.1-samples
-nvcr.io/nvidia/deepstream-l4t:6.1.1-samples
+Status: Downloaded newer image for nvcr.io/nvidia/deepstream-l4t:6.0-samples
+nvcr.io/nvidia/deepstream-l4t:6.0-samples
 ```
 
 Start the Docker Container: 
